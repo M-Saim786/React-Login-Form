@@ -1,0 +1,22 @@
+body {
+    background-color: palegreen;
+}
+
+.inputs {
+    width: 40%;
+    height: 6vh;
+    margin: 20px auto;
+
+}
+
+.container {
+    /* border: 1px solid rgb(0, 0, 0); */
+    width: 50%;
+    margin: 6rem auto;
+    padding: 10px 10px;
+    height: 65vh;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px black;
+}
